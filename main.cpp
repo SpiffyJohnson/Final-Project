@@ -1,4 +1,4 @@
-// Link command: g++ -o main.exe Monster.cpp "TurnBasedBattleSystem.cpp"
+// Link command: g++ -o TurnBasedBattleSystem.exe Monster.cpp "main.cpp"
 // Run in the Command Prompt in the folder containing the "Monster.h", "Monster.cpp", and "TurnBasedBattleSystem.cpp" files.
 
 #include "Monster.h"
